@@ -1,4 +1,4 @@
-# 🎬 Movie Database — SQL Analysis & Insights Project
+# 🎬 Movie Database — SQL Analysis & Insights
 
 This project explores and analyzes a multi-table Movie Database using SQL.  
 It demonstrates a wide range of SQL skills including filtering, joins, date conversions, window functions, subqueries, data cleaning, and view creation.  
